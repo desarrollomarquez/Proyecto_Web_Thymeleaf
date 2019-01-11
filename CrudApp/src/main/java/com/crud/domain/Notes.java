@@ -3,7 +3,7 @@ package com.crud.domain;
 import javax.persistence.*;
 
 /**
- * Created by abraun on 23/11/2017.
+ * Created by diego on 11/01/2019.
  */
 @Entity
 public class Notes {

@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 import com.crud.domain.Notes;
 
 /**
- * Created by abraun on 23/11/2017.
+ * Created by diego on 11/01/2019.
  */
 @Repository
 public interface NotesRepository extends JpaRepository<Notes, Long> {
